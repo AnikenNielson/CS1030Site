@@ -1,4 +1,3 @@
-/* Page layout */
 body {
   background-color: #fffaf0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -11,7 +10,7 @@ body {
   background: white;
 }
 
-/* Headings */
+
 h1 {
   color: #2e8b57;
   font-size: 2.5em;
@@ -25,12 +24,12 @@ h2 {
   margin-top: 30px;
 }
 
-/* Paragraphs */
+
 p {
   font-size: 1.1em;
 }
 
-/* Images */
+
 img {
   max-width: 33%;
   height: auto;
@@ -39,14 +38,18 @@ img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Lists */
+.img1 {
+  width: 250px;
+  height: auto;
+}
+
 ul, ol {
   padding-left: 20px;
   margin-top: 10px;
   margin-bottom: 20px;
 }
 
-/* Links */
+
 a {
   color: #1e90ff;
   font-weight: bold;
